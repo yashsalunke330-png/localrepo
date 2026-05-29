@@ -1,4 +1,2 @@
-# yashsalunke-proj
-This is my first git repository. 
-<br>
-author - yash salunke 
+#This is my local repo 
+
